@@ -3,9 +3,6 @@
 
 Aplicação web simples e intuitiva para criar, editar, buscar e exportar anotações. Desenvolvido com **HTML**, **CSS** e **JavaScript**, usando `localStorage` para persistência de dados.
 
-## 📸 Preview
-
-![Preview da aplicação](img/screenshot.png)
 
 ## 🚀 Funcionalidades
 
